@@ -5,6 +5,8 @@ This repo contains the trained models, codes, files and datasets of terrain imag
 
 # Desired Outcomes: 
 
+Terrain Recognition-  land-type and terrain-type recognition from aerial and ground view.
+
 Military applications- surveillance, troops tracking, weapon identification, path detection.
 
 Urbanization management- buildings, Natural resource identification, crowd management.

@@ -28,3 +28,4 @@ Forest/Farm management- farmland, forest density, crop/area ratio, animal detect
 
 
 Datasets source: classification_datasets--> https://www.kaggle.com/datasets/jiayuanchengala/aid-scene-classification-datasets/data 
+                                            https://drive.google.com/drive/folders/1WRN4XXtnEMCT6JvOftwY7PURUG2w1dX0?usp=sharing

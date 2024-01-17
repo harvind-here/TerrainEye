@@ -1,6 +1,6 @@
 # TerrainEye:
 
-Deep learning terrain classifier model
+A Terrain classifier model achieved using Transfer learning of a pre-trained EfficientNetB7 model.
 This repo contains the trained models, codes, files and datasets of terrain images using which the specific outcome is achieved.
 
 # Desired Outcomes: 

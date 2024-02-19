@@ -5,7 +5,7 @@ This repo contains the trained models, codes, files and datasets of terrain imag
 
 # Desired Outcomes: 
 
-Terrain Recognition-  land-type and terrain-type recognition from aerial and ground view.
+Terrain Recognition-  land-type and terrain-type recognition from aerial view by a flying vehicle such as drone.
 
 Military applications- surveillance, troops tracking, weapon identification, path detection.
 
@@ -30,5 +30,4 @@ Forest/Farm management- farmland, forest density, crop/area ratio, animal detect
 
 
 
-Datasets source: classification_datasets--> https://www.kaggle.com/datasets/jiayuanchengala/aid-scene-classification-datasets/data 
-                                            https://drive.google.com/drive/folders/1WRN4XXtnEMCT6JvOftwY7PURUG2w1dX0?usp=sharing
+Dataset research paper citation: https://arxiv.org/pdf/1608.05167.pdf

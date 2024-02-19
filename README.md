@@ -1,17 +1,11 @@
 # TerrainEye:
 
 A Terrain classifier model achieved using Transfer learning of a pre-trained EfficientNetB7 model.
-This repo contains the trained models, codes, files and datasets of terrain images using which the specific outcome is achieved.
+This repo contains the trained models, codes, files and datasets of terrain images using which the outcome of Terrain identification using imagery data is achieved.
 
 # Desired Outcomes: 
 
 Terrain Recognition-  land-type and terrain-type recognition from aerial view by a flying vehicle such as drone.
-
-Military applications- surveillance, troops tracking, weapon identification, path detection.
-
-Urbanization management- buildings, Natural resource identification, crowd management.
-
-Forest/Farm management- farmland, forest density, crop/area ratio, animal detection.
 
 # Classifier model[accuracy, loss and F1 score]:
 

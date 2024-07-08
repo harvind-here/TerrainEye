@@ -1,5 +1,5 @@
 # TerrainEye: Fine-Tuned Image classifier model. 
-### Done on account of SIH 2023.
+### Developed for SIH 2023.
 
 A Terrain classifier model achieved using Transfer learning of a pre-trained EfficientNetB7 model.
 This repo contains the trained models, codes, files and datasets of terrain images using which the outcome of Terrain identification using imagery data is achieved.

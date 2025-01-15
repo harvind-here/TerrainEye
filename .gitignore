@@ -1,0 +1,6 @@
+dataset/
+dataset_split/
+check.py
+history.npy
+history_fine.npy
+TerrainEye.h5

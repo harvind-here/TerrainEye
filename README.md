@@ -1,7 +1,7 @@
 # TerrainEye: Fine-Tuned Image classifier model. 
 
 A Terrain classifier model achieved using Transfer learning of a pre-trained ResNet50v2.
-This repo contains the codes, files and performance metrics of trained model.
+This repo contains the codes, files and performance metrics of trained model. I used two phase training method for fine tuning ResNet50. which is Phase 1: Top layer training, Phase 2: Base model Training.
 
 ## Skills:
 <img src="https://img.shields.io/badge/Machine Learning-3776AB?style=flat-square&logo=ML&logoColor=white" alt="Machine Learning"> <img src="https://img.shields.io/badge/FineTuning-3776AB?style=flat-square&logo=finetuning&logoColor=white" alt="Fine-Tuning">  <img src="https://img.shields.io/badge/Data Preprocessing-3776AB?style=flat-square&logo=Data&logoColor=white" alt="Data Preprocessing">

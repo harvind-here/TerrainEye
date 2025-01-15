@@ -5,7 +5,6 @@ This repo contains the trained models, codes, files and datasets of terrain imag
 
 ## Skills:
 <img src="https://img.shields.io/badge/Machine Learning-3776AB?style=flat-square&logo=ML&logoColor=white" alt="Machine Learning"> <img src="https://img.shields.io/badge/FineTuning-3776AB?style=flat-square&logo=finetuning&logoColor=white" alt="Fine-Tuning">  <img src="https://img.shields.io/badge/Data Preprocessing-3776AB?style=flat-square&logo=Data&logoColor=white" alt="Data Preprocessing">
-# Desired Outcomes:
 
 Terrain Recognition-  land-type and terrain-type recognition from aerial view by a flying vehicle such as drone.
 

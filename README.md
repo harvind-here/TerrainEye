@@ -10,7 +10,7 @@ This repo contains the trained models, codes, files and datasets of terrain imag
 Terrain Recognition-  land-type and terrain-type recognition from aerial view by a flying vehicle such as drone.
 
 
-
+```
 Classification Report:
                    precision    recall  f1-score   support
 
@@ -48,7 +48,7 @@ SparseResidential       0.99      0.99      0.99       174
          accuracy                           0.98      6561
         macro avg       0.98      0.98      0.98      6561
      weighted avg       0.98      0.98      0.98      6561
-
+```
 
 
 

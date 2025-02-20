@@ -1,3 +1,5 @@
+__pycache__
+*.pyc
 dataset/
 dataset_split/
 check.py
